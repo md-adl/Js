@@ -16,5 +16,29 @@ const getName = new String('gameName');
 // const newString = getName.substring(0,5);
 // console.log(newString);
 
-const anotherString = getName.slice(-7,4)
-console.log(anotherString);
+// const anotherString = getName.slice(-7,4)
+// console.log(anotherString);
+
+// const trimString = "   Adil ";
+// console.log(trimString);
+// console.log(trimString.trim());
+
+// const url = "https://adil.com/adil%20choudhary";
+// console.log(url.replace('%20', "-"));
+
+// console.log(url.includes('adil'));
+
+// const splitexample = "adil-md-khan";
+// const splitexample1 = "adil md khan";
+
+
+// console.log(splitexample.split('-'));
+// console.log(splitexample1.split(' '));
+
+
+// split converts array on the basis of seperator or spaces
+
+
+
+
+
