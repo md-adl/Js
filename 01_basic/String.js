@@ -1,11 +1,12 @@
-// const name = "Adil";
+const name = "Adil";
+console.log(name);
 // const repoCount = 50;
 // console.log(name[0]);
 
 // console.log(name + repoCount + " value");
 // console.log(`Hello my Name is ${name} and my repo count is ${repoCount}`);
 
-const getName = new String('gameName'); 
+// const getName = new String('gameName'); 
 // console.log(typeof getName); 
 // console.log(getName.toLocaleLowerCase());
 // console.log(getName.toLocaleUpperCase());
@@ -37,6 +38,7 @@ const getName = new String('gameName');
 
 
 // split converts array on the basis of seperator or spaces
+
 
 
 
